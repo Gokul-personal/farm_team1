@@ -35,10 +35,12 @@ error_reporting(0);
  <!--FontAwesome Font Style -->
  <link href="assets/css/font-awesome.min.css" rel="stylesheet">
 </head>
+
 <body>
   <!--Header-->
   <?php include('includes/header.php'); ?>
   <!-- /Header -->
+
   <!-- Banners -->
   <section id="banner" class="banner-section">
     <div class="container">
